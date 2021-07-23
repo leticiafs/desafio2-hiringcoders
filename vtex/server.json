@@ -1,0 +1,60 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Luxury Botanical Cream",
+      "description": "O novo creme Luxury Botanical vai transformar a sua pele no mais suave veludo.",
+      "photo": "https://user-images.githubusercontent.com/53658438/126687321-287897ef-5012-441c-9d88-1eb3113584a0.png",
+      "price": 149
+    },
+    {
+      "id": 2,
+      "name": "Luxury Botanical Lotion",
+      "description": "Com aroma de flores e uma textura ultraleve, é ideal para o cuidado diário de peles normais a secas.",
+      "photo": "https://desafio1-hc.netlify.app/img/bisnaga.png",
+      "price": 89
+    },
+    {
+      "id": 3,
+      "name": "Luxury Botanical Sérum",
+      "description": "Promovem o estimulo da produção de colágeno, aumento da renovação celular, hidratação e ação antioxidante.",
+      "photo": "https://user-images.githubusercontent.com/53658438/126687305-3b4e8673-c7d5-4423-b1d3-b9dade896d04.png",
+      "price": 189
+    },
+    {
+      "id": 4,
+      "name": "Kit Luxury Botanical",
+      "description": "Kit para o cuidado diário da sua pele. Composto pelo cream, sérum e uma loção especial para o corpo",
+      "photo": "https://user-images.githubusercontent.com/53658438/126687313-06b2510b-d925-41df-a00a-9c53e042c900.png",
+      "price": 399
+    },
+    {
+      "id": 5,
+      "name": "Esponjas para limpeza do rosto",
+      "description": "Kit de esponja para auxiliar na esfoliação e limpeza da pele facial.",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLo9rhSKBGgo-EcORu31Gi5P1FSWyjO81SAQ&usqp=CAU",
+      "price": 79
+    },
+    {
+      "id": 6,
+      "name": "Máscara facial pele seca",
+      "description": "Máscara facial para hidratação e recuperação de pele seca.",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA5soGkiF835YXDxKVkPrlEsAS8aT-UbFAOw&usqp=CAU",
+      "price": 99
+    },
+    {
+      "id": 7,
+      "name": "Set Rosé Luxury",
+      "description": "Set de produtos especias para skincare, especialmente para peles sensíveis.",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLo9rhSKBGgo-EcORu31Gi5P1FSWyjO81SAQ&usqp=CAU",
+      "price": 258
+    },
+    {
+      "id": 8,
+      "name": "Watermelon treatment",
+      "description": "Linha especial para peles acneicas, feito com extrato de melancia.",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShERwj7f812xc6CnKArIoMGf1NfRWKN5tKYQ&usqp=CAU",
+      "price": 199
+    }
+  ]
+}
